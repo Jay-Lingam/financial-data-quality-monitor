@@ -149,7 +149,7 @@ The master quality engine identified 1,146 unique records with at least one issu
 
 ## Dashboard
 
-![Financial Data Quality Dashboard](dashboard/financial_data_quality_dashboard.png)
+![Financial Data Quality Dashboard](financial_data_quality_dashboard.png)
 
 ---
 
