@@ -2,6 +2,45 @@
 
 ### Candidate Case Study — Synthetic Financial Dataset
 
+A financial data quality monitoring case study focused on detecting, validating and prioritizing issues across multiple financial data providers.
+
+Built to explore problems around **data completeness, reconciliation, anomaly detection, stale data and quality monitoring** using Python and a synthetic financial dataset.
+
+> **Note:** This is an independent portfolio project using synthetic data. It is not affiliated with or based on proprietary data from Arcana Analytics.
+
+## Dashboard
+
+![Financial Data Quality Dashboard](financial_data_quality_dashboard.png)
+
+## Key Results
+
+| Metric | Result |
+|---|---:|
+| Total Records | 7,714 |
+| Clean Records | 6,568 |
+| Records With Issues | 1,146 |
+| Overall Quality Rate | 85.14% |
+| Critical Records | 318 |
+| Warning Records | 728 |
+| Minor Records | 100 |
+
+### Most Frequent Issues
+
+| Issue | Records | % |
+|---|---:|---:|
+| Stale Data | 238 | 3.09% |
+| Missing Values | 228 | 2.96% |
+| Duplicate Records | 228 | 2.96% |
+| Provider Reconciliation | 204 | 2.64% |
+| Statistical Anomaly | 185 | 2.40% |
+| Invalid Financial Values | 114 | 1.48% |
+| Currency Inconsistency | 76 | 0.99% |
+| Invalid Timestamp | 30 | 0.39% |
+
+# Financial Data Quality & Reconciliation Monitor
+
+### Candidate Case Study — Synthetic Financial Dataset
+
 A financial data quality monitoring case study focused on identifying, validating and prioritizing data issues across multiple providers.
 
 I built this project after exploring the type of data-quality challenges relevant to financial data platforms, particularly around validation, reconciliation, anomaly detection and monitoring.
